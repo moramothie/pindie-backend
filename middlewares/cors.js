@@ -3,7 +3,7 @@ const allowedCors = [
     'https://students-projects.ru',
     'http://localhost:3000',
     'http://localhost:3001',
-    'https://shedevropindiefrontend.nomoredomainswork.ru'
+    'https://game-miti.nomorepartiesco.ru'
     
 ]
 
